@@ -1,9 +1,7 @@
 import React from 'react';
-import {View, Text, Image, StyleSheet, TouchableOpacity} from 'react-native';
-import {scrWidth, scrHeight} from '../screenSize';
+import { Image, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import Colors from '../colors';
-import {Rating} from 'react-native-elements';
-import {Card} from 'react-native-paper';
+import { scrHeight, scrWidth } from '../screenSize';
 
 const LOW_DEVICES = scrWidth < 400;
 const GridCourses = (props) => {
@@ -20,14 +18,14 @@ const GridCourses = (props) => {
           <Text style={{color: Colors.AccentColor, fontWeight: 'bold'}}>
             {props.category}
           </Text>
-          <Rating
+          {/* <Rating
             readonly={true}
             type="star"
             ratingCount={5}
             imageSize={20}
             style={{alignItems: 'flex-start'}}
             startingValue={props.courserating}
-          />
+          /> */}
           <Text style={{fontSize: 23, fontWeight: '400'}}>
             Rp. {props.price}
           </Text>

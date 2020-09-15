@@ -219,18 +219,15 @@ const CourseScreen = (props) => {
               alignItems: 'center',
             }}>
             <Text style={{fontSize: 33}}>Rp.{selectedCourse.price} </Text>
-            <TouchableOpacity
+            {/* <TouchableOpacity
               onPress={() => {
                 setModalVIsible(!modalVisible);
               }}>
               <AirbnbRating
                 isDisabled={true}
                 defaultRating={selectedCourse.rating}
-                // startingValue={selectedCourse.category}
                 readonly={true}
                 showRating={false}
-                // onStartRating={stateRatingHandler}
-                // onFinishRating={stateRatingHandler}
                 onFinishRating={null}
                 onPress={null}
                 size={HIGH_DEVICES ? 40 : 30}
@@ -305,7 +302,7 @@ const CourseScreen = (props) => {
                   </View>
                 </View>
               </Overlay>
-            </TouchableOpacity>
+            </TouchableOpacity> */}
             {!currentEnrolledCourse ? (
               <ButtonTemplate
                 onPress={() => {
