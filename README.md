@@ -1,2 +1,5 @@
 # react-native-learning
 Learning App build with React Native, Redux, React Thunk, and Firebase
+
+# Screenshoots
+![alt text](https://firebasestorage.googleapis.com/v0/b/sakashimura-chat-app.appspot.com/o/Screenshoot%2FScreenshot_1600434404.png?alt=media&token=b5ce8d81-7629-48cc-baa0-bff8a62af6f1) ![alt text](https://firebasestorage.googleapis.com/v0/b/sakashimura-chat-app.appspot.com/o/Screenshoot%2FScreenshot_1600434419.png?alt=media&token=836d4a4d-646f-4d8d-b7d2-24ed5a13a14b) ![alt text](https://firebasestorage.googleapis.com/v0/b/sakashimura-chat-app.appspot.com/o/Screenshoot%2FScreenshot_1600434427.png?alt=media&token=6e28c54b-172f-4f39-8611-4c7f8e0ff770) ![alt text](https://firebasestorage.googleapis.com/v0/b/sakashimura-chat-app.appspot.com/o/Screenshoot%2FScreenshot_1600434439.png?alt=media&token=19985a5d-ee91-4541-973c-1c09e8e96c47) ![alt text](https://firebasestorage.googleapis.com/v0/b/sakashimura-chat-app.appspot.com/o/Screenshoot%2FScreenshot_1600434524.png?alt=media&token=390d15bc-4fbd-4cf4-95d1-6606bb3d6303)
